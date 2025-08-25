@@ -21,7 +21,7 @@ Crypto Vault allows you to generate and manage crypto wallets from a single mnem
 
 - 🔒 **Security Best Practices**  
   - Mnemonic is never exposed in UI once generated.  
-  - Stored only locally in the browser.  
+ 
 
 ---
 
